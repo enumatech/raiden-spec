@@ -1,0 +1,71 @@
+<svg width="523.5" height="983" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><rect x="13.5" y="13.5" height="957" width="497.5" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="86.5" y="35" style="">TokenNetwork channel close and settle</text>
+<path d="M13.5 44.5 L511 44.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M250.5 87.5 L250.5 107.5 L250.5 127.5 L250.5 127.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 114.2 L250.5 120.8 L255.8 114.2 L250.5 127.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.5 158.5 L250.5 178.5 L250.5 198.5 L250.5 198.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 185.2 L250.5 191.8 L255.8 185.2 L250.5 198.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="107.5" y="291.5" style="">1</text>
+<path d="M176 259 L125 279.5 L125 299.5 L125 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M119.7 286.2 L125 292.8 L130.3 286.2 L125 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="358.5" y="291.5" style="">0</text>
+<path d="M325 259 L376 279.5 L376 299.5 L376 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M370.7 286.2 L376 292.8 L381.3 286.2 L376 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M125 330.5 L125 350.5 L125 370.5 L125 370.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M119.7 357.2 L125 363.8 L130.3 357.2 L125 370.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M125 416.5 L125 436.5 L125 456.5 L125 456.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M119.7 443.2 L125 449.8 L130.3 443.2 L125 456.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M376 330.5 L376 350.5 L376 370.5 L376 370.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M370.7 357.2 L376 363.8 L381.3 357.2 L376 370.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M376 416.5 L376 436.5 L376 464 L376 464 " style="stroke:#33322E;fill:none;"></path>
+<path d="M370.7 450.7 L376 457.3 L381.3 450.7 L376 464 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M376 495 L376 522.5 L376 542.5 L376 542.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M370.7 529.2 L376 535.8 L381.3 529.2 L376 542.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M376 588.5 L376 608.5 L305.3 628.5 L305.3 628.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M316.7 619.7 L311.7 626.7 L319.6 630 L305.3 628.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M125 502.5 L125 522.5 L125 608.5 L125 608.5 L195.7 628.5 L195.7 628.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M181.4 630 L189.3 626.7 L184.3 619.7 L195.7 628.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.5 659.5 L250.5 679.5 L250.5 699.5 L250.5 699.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 686.2 L250.5 692.8 L255.8 686.2 L250.5 699.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.5 745.5 L250.5 765.5 L250.5 785.5 L250.5 785.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 772.2 L250.5 778.8 L255.8 772.2 L250.5 785.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.5 816.5 L250.5 836.5 L250.5 856.5 L250.5 856.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 843.2 L250.5 849.8 L255.8 843.2 L250.5 856.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.5 887.5 L250.5 907.5 L250.5 927.5 L250.5 927.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M245.2 914.2 L250.5 920.8 L255.8 914.2 L250.5 927.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<circle r="12" cx="250.5" cy="72.5" style="stroke:none; fill:#33322E;"></circle>
+<rect x="152.5" y="127.5" rx="15.5" ry="15.5" height="31" width="197" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="160.8" y="149" style="">P1-P2 Channel alive</text>
+<path d="M250.5 190.5 L333.5 229 L250.5 267.5 L168.5 229 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="241.5" y="220" style="">P1</text>
+<text x="184.5" y="235" style="">wants to close</text>
+<text x="217.8" y="250" style="">Channel</text>
+<rect x="36.5" y="299.5" rx="15.5" ry="15.5" height="31" width="178" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="44.8" y="321" style="">cooperativeSettle</text>
+<rect x="277.5" y="299.5" rx="15.5" ry="15.5" height="31" width="197" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="285.8" y="321" style="">uncooperativeSettle</text>
+<rect x="26.5" y="370.5" rx="20" ry="20" height="46" width="197" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="49" y="392" style="">P1,P2 sign final</text>
+<text x="34.8" y="407" style="">settlement balances</text>
+<rect x="36.5" y="456.5" rx="20" ry="20" height="46" width="178" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="44.8" y="478" style="">P1/Delegate calls</text>
+<text x="44.8" y="493" style="">cooperativeSettle</text>
+<rect x="268.5" y="370.5" rx="20" ry="20" height="46" width="216" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="276.8" y="392" style="">P1 calls closeChannel</text>
+<text x="329" y="407" style="">with BP_P2</text>
+<rect x="254.5" y="464.5" rx="15.5" ry="15.5" height="31" width="244" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="262.5" y="486" style="">P2/Delegate update BP_P1</text>
+<rect x="301.5" y="542.5" rx="20" ry="20" height="46" width="149" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="309.5" y="564" style="">P1/P2/Delegate</text>
+<text x="314.3" y="579" style="">settleChannel</text>
+<rect x="166.5" y="628.5" rx="15.5" ry="15.5" height="31" width="168" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="174.5" y="650" style="">Token Settlement</text>
+<rect x="104.5" y="699.5" rx="20" ry="20" height="46" width="292" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="112.8" y="721" style="">P1 receives tokens owed by P2</text>
+<text x="112.8" y="736" style="">P2 receives tokens owed by P1</text>
+<rect x="171.5" y="785.5" rx="15.5" ry="15.5" height="31" width="159" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="179.8" y="807" style="">Channel settled</text>
+<rect x="81.5" y="856.5" rx="15.5" ry="15.5" height="31" width="339" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="89.5" y="878" style="">+/- Unlock pending transfers P1/P2</text>
+<circle r="10" cx="250.5" cy="942.5" style="stroke:#33322E;fill:#fdf6e3;"></circle>
+<circle r="6" cx="250.5" cy="942.5" style="stroke:none; fill:#33322E;"></circle></svg>

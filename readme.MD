@@ -10,6 +10,7 @@ and `direnv` installed:
 ```
 direnv allow
 pip install -r requirements.txt
+npm install
 make diagrams html
 open _build/html/index.html
 ```

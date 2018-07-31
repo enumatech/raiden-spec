@@ -1,0 +1,24 @@
+{
+  "name": "raiden-spec",
+  "version": "1.0.0",
+  "description": "This is the RST source for the raiden network specification. To see the actual result go to [Read The Docs](http://raiden-network-specification.readthedocs.io/en/latest/)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nomnoml": "^0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiden-network/spec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiden-network/spec/issues"
+  },
+  "homepage": "https://github.com/raiden-network/spec#readme"
+}

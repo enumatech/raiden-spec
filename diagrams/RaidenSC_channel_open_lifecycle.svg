@@ -1,0 +1,92 @@
+<svg width="770" height="883" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><rect x="13.5" y="13.5" height="857" width="744" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="209.8" y="35" style="">TokenNetwork channel open and deposit</text>
+<path d="M13.5 44.5 L757.5 44.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M371.3 87.5 L371.3 107.5 L371.3 127.5 L371.3 127.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 114.2 L371.3 120.8 L376.6 114.2 L371.3 127.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="145.8" y="220.5" style="">1</text>
+<path d="M296.8 176.1 L163.3 208.5 L163.3 228.5 L163.3 228.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M157.9 215.2 L163.3 221.8 L168.6 215.2 L163.3 228.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="353.8" y="220.5" style="">2</text>
+<path d="M371.3 188.5 L371.3 208.5 L371.3 228.5 L371.3 228.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 215.2 L371.3 221.8 L376.6 215.2 L371.3 228.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="590.3" y="220.5" style="">3</text>
+<path d="M445.8 173.9 L607.8 208.5 L607.8 228.5 L607.8 228.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M602.4 215.2 L607.8 221.8 L613.1 215.2 L607.8 228.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M163.3 259.5 L163.3 279.5 L280.4 299.5 L280.4 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M266.4 302.5 L273.9 298.4 L268.2 292 L280.4 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M371.3 259.5 L371.3 279.5 L371.3 299.5 L371.3 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 286.2 L371.3 292.8 L376.6 286.2 L371.3 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M607.8 259.5 L607.8 279.5 L474.5 299.5 L474.5 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M486.9 292.2 L481.1 298.5 L488.5 302.8 L474.5 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M371.3 330.5 L371.3 350.5 L371.3 370.5 L371.3 370.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 357.2 L371.3 363.8 L376.6 357.2 L371.3 370.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="169.8" y="575.5" style="">1</text>
+<path d="M296.8 399.5 L176 421.5 L176 563.5 L176 563.5 L187.3 583.5 L187.3 583.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M176.1 574.5 L184 577.7 L185.4 569.3 L187.3 583.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="353.8" y="433.5" style="">3</text>
+<path d="M371.3 401.5 L371.3 421.5 L371.3 441.5 L371.3 441.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 428.2 L371.3 434.8 L376.6 428.2 L371.3 441.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="566.2" y="575.5" style="">2</text>
+<path d="M445.8 397.8 L595 421.5 L595 563.5 L595 563.5 L583.7 583.5 L583.7 583.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M585.6 569.3 L587 577.7 L594.9 574.5 L583.7 583.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M196 614.5 L196 634.5 L196 654.5 L196 654.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M190.7 641.2 L196 647.8 L201.3 641.2 L196 654.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M575 614.5 L575 634.5 L575 654.5 L575 654.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M569.7 641.2 L575 647.8 L580.3 641.2 L575 654.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M371.3 472.5 L371.3 492.5 L371.3 512.5 L371.3 512.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M365.9 499.2 L371.3 505.8 L376.6 499.2 L371.3 512.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="206.7" y="575.5" style="">1</text>
+<path d="M334.8 539.7 L260.5 563.5 L224.2 583.5 L224.2 583.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M233.3 572.4 L230 580.3 L238.4 581.7 L224.2 583.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="529.3" y="575.5" style="">2</text>
+<path d="M407.8 537.3 L510.5 563.5 L546.8 583.5 L546.8 583.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M532.6 581.7 L541 580.3 L537.7 572.4 L546.8 583.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M196 685.5 L196 705.5 L301.3 726.8 L301.3 726.8 " style="stroke:#33322E;fill:none;"></path>
+<path d="M287.1 729.4 L294.7 725.5 L289.2 718.9 L301.3 726.8 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M575 685.5 L575 705.5 L441.3 728.8 L441.3 728.8 " style="stroke:#33322E;fill:none;"></path>
+<path d="M453.5 721.3 L447.8 727.7 L455.3 731.8 L441.3 728.8 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M323.2 756.5 L261.3 776.5 L269.2 796.5 L269.2 796.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M259.3 786.1 L266.7 790.3 L269.2 782.1 L269.2 796.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M293.3 796.5 L301.3 776.5 L340.7 756.5 L340.7 756.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M331.2 767.3 L334.7 759.5 L326.4 757.8 L340.7 756.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M401.8 756.5 L441.3 776.5 L449.2 796.5 L449.2 796.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M439.3 786.1 L446.7 790.3 L449.2 782.1 L449.2 796.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M473.3 796.5 L481.3 776.5 L419.3 756.5 L419.3 756.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M433.6 755.5 L425.6 758.5 L430.3 765.7 L419.3 756.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<circle r="12" cx="371.3" cy="72.5" style="stroke:none; fill:#33322E;"></circle>
+<path d="M371.3 119.5 L453.5 158 L371.3 196.5 L288.5 158 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="342.5" y="149" style="">P1, P2</text>
+<text x="304.5" y="164" style="">want to open a</text>
+<text x="337.8" y="179" style="">Channel</text>
+<rect x="79.5" y="228.5" rx="15.5" ry="15.5" height="31" width="168" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="87.5" y="250" style="">P1 opens Channel</text>
+<rect x="287.5" y="228.5" rx="15.5" ry="15.5" height="31" width="168" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="295.5" y="250" style="">P2 opens Channel</text>
+<rect x="495.5" y="228.5" rx="15.5" ry="15.5" height="31" width="225" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="503.5" y="250" style="">Delegate opens Channel</text>
+<rect x="263.5" y="299.5" rx="15.5" ry="15.5" height="31" width="216" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="271.8" y="321" style="">P1-P2 Channel is open</text>
+<path d="M371.3 362.5 L453.5 386 L371.3 409.5 L288.5 386 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="304.5" y="392" style="">Deposit tokens</text>
+<rect x="140.5" y="583.5" rx="15.5" ry="15.5" height="31" width="111" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="148.5" y="605" style="">P1 deposit</text>
+<rect x="282.5" y="441.5" rx="15.5" ry="15.5" height="31" width="178" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="290.8" y="463" style="">Delegate deposits</text>
+<rect x="519.5" y="583.5" rx="15.5" ry="15.5" height="31" width="111" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="527.5" y="605" style="">P2 deposit</text>
+<rect x="26.5" y="654.5" rx="15.5" ry="15.5" height="31" width="339" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="34.5" y="676" style="">Off-chain transfers P1->P2 enabled</text>
+<rect x="405.5" y="654.5" rx="15.5" ry="15.5" height="31" width="339" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="413.5" y="676" style="">Off-chain transfers P2->P1 enabled</text>
+<path d="M371.3 504.5 L415.5 528 L371.3 551.5 L326.5 528 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="342.5" y="534" style="">where?</text>
+<rect x="301.5" y="725.5" rx="15.5" ry="15.5" height="31" width="140" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="309.8" y="747" style="">Channel alive</text>
+<rect x="211.5" y="796.5" rx="20" ry="20" height="61" width="140" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="224.5" y="818" style="">P1 withdraws</text>
+<text x="219.8" y="833" style="">if P1 deposit</text>
+<text x="253" y="848" style="">enough</text>
+<rect x="391.5" y="796.5" rx="20" ry="20" height="61" width="140" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="404.5" y="818" style="">P2 withdraws</text>
+<text x="399.8" y="833" style="">if P2 deposit</text>
+<text x="433" y="848" style="">enough</text></svg>

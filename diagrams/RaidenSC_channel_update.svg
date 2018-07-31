@@ -1,0 +1,51 @@
+<svg width="945" height="513" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><rect x="13.5" y="13.5" height="487" width="919" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="359" y="35" style="">P2/Delegate update BP_P1</text>
+<path d="M13.5 44.5 L932.5 44.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M462.5 87.5 L462.5 107.5 L462.5 127.5 L462.5 127.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M457.2 114.2 L462.5 120.8 L467.8 114.2 L462.5 127.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="87" y="198.5" style="">0</text>
+<path d="M369 152.3 L104.5 178.5 L104.5 206.5 L104.5 206.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M99.2 193.2 L104.5 199.8 L109.8 193.2 L104.5 206.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="207" y="190.5" style="">1</text>
+<path d="M369 156.9 L224.5 178.5 L224.5 198.5 L224.5 198.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M219.2 185.2 L224.5 191.8 L229.8 185.2 L224.5 198.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="207" y="276.5" style="">1</text>
+<path d="M224.5 244.5 L224.5 264.5 L224.5 284.5 L224.5 284.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M219.2 271.2 L224.5 277.8 L229.8 271.2 L224.5 284.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="664.8" y="276.5" style="">0</text>
+<path d="M289.5 227.8 L671 264.5 L682.3 284.5 L682.3 284.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M671.1 275.5 L679 278.7 L680.4 270.3 L682.3 284.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M699.7 284.5 L711 264.5 L711 178.5 L711 178.5 L556 156.4 L556 156.4 " style="stroke:#33322E;fill:none;"></path>
+<path d="M570 153 L562.6 157.3 L568.4 163.5 L556 156.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M224.5 315.5 L224.5 335.5 L224.5 355.5 L224.5 355.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M219.2 342.2 L224.5 348.8 L229.8 342.2 L224.5 355.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="275" y="448.8" style="">0</text>
+<path d="M224.5 416.5 L224.5 436.5 L292.5 456.8 L292.5 456.8 " style="stroke:#33322E;fill:none;"></path>
+<path d="M278.2 458.1 L286.1 454.9 L281.2 447.9 L292.5 456.8 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="684.8" y="448.5" style="">1</text>
+<path d="M299 394.1 L691 436.5 L702.3 456.5 L702.3 456.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M691.1 447.5 L699 450.7 L700.4 442.3 L702.3 456.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M394.5 456.8 L462.5 436.5 L462.5 178.5 L462.5 178.5 L462.5 158.5 L462.5 158.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M467.8 171.8 L462.5 165.2 L457.2 171.8 L462.5 158.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M781 460.1 L919.5 436.5 L919.5 178.5 L919.5 178.5 L556 150.3 L556 150.3 " style="stroke:#33322E;fill:none;"></path>
+<path d="M569.7 146 L562.6 150.8 L568.9 156.6 L556 150.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<circle r="12" cx="462.5" cy="72.5" style="stroke:none; fill:#33322E;"></circle>
+<path d="M462.5 119.5 L564.5 143 L462.5 166.5 L361.5 143 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="377.5" y="149" style="">Settlement window?</text>
+<circle r="10" cx="104.5" cy="221.5" style="stroke:#33322E;fill:#fdf6e3;"></circle>
+<circle r="6" cx="104.5" cy="221.5" style="stroke:none; fill:#33322E;"></circle>
+<path d="M224.5 190.5 L297.5 221.5 L224.5 252.5 L151.5 221.5 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="172.3" y="220" style="">P2/Delegate</text>
+<text x="167.5" y="235" style="">update BP_P1</text>
+<rect x="26.5" y="284.5" rx="15.5" ry="15.5" height="31" width="396" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="34.5" y="306" style="">P2/Delegate updateNonClosingBalanceProof</text>
+<rect x="502.5" y="284.5" rx="15.5" ry="15.5" height="31" width="377" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="510.5" y="306" style="">P2 potentially loses tokens owed by P1</text>
+<path d="M224.5 347.5 L307.5 386 L224.5 424.5 L142.5 386 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="201.3" y="377" style="">NONCE</text>
+<text x="158.5" y="392" style="">> stored nonce</text>
+<text x="220.3" y="407" style="">?</text>
+<rect x="292.5" y="456.5" rx="15.5" ry="15.5" height="31" width="102" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="300.8" y="478" style="">no change</text>
+<rect x="641.5" y="456.5" rx="15.5" ry="15.5" height="31" width="140" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="649.8" y="478" style="">BP_P1 updated</text></svg>

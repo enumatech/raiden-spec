@@ -1,4 +1,4 @@
-[TokenNetwork channel close & settle |
+[TokenNetwork channel close and settle |
   [<start>start]->[<state>P1-P2 Channel alive]
   [<state>P1-P2 Channel alive]->[<choice> P1; wants to close ;Channel]
   [<choice> P1; wants to close ;Channel]->1[<state>cooperativeSettle]

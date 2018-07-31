@@ -49,10 +49,19 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
-.PHONY: diagrams
-diagrams:
+.PHONY: nomnoml-diagrams
+nomnoml-diagrams:
+	node node_modules/nomnoml/dist/nomnoml-cli.js diagrams/sources/sc_channel_batch_unlock.txt diagrams/RaidenSC_channel_unlock.svg
+	node node_modules/nomnoml/dist/nomnoml-cli.js diagrams/sources/sc_channel_settlement.txt diagrams/RaidenSC_channel_settlement.svg
+	node node_modules/nomnoml/dist/nomnoml-cli.js diagrams/sources/sc_channel_settlement_update_bp.txt diagrams/RaidenSC_channel_update.svg
+	node node_modules/nomnoml/dist/nomnoml-cli.js diagrams/sources/sc_opened_channel_lifecycle.txt diagrams/RaidenSC_channel_open_lifecycle.svg
+
+.PHONY: plantuml-diagrams
+plantuml-diagrams:
 	./as-plantuml.sh diagrams/sources/client_mediating_transfer_good.txt | plantuml -p -tpng > diagrams/RaidenClient_mediated_transfer_good.png
 	./as-plantuml.sh diagrams/sources/client_mediating_transfer_onchain_reveal.txt | plantuml -p -tpng > diagrams/RaidenClient_mediated_transfer_secret_reveal.png
+
+diagrams: nomnoml-diagrams plantuml-diagrams
 
 .PHONY: html
 html:

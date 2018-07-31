@@ -2,3 +2,4 @@ _build/
 .vscode/
 .idea/
 .direnv/
+node_modules/

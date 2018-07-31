@@ -1,0 +1,56 @@
+<svg width="704" height="842" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><rect x="13.5" y="13.5" height="816" width="678" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="186.3" y="35" style="">+/- Unlock pending transfers P1->P2</text>
+<path d="M13.5 44.5 L691.5 44.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M199.5 87.5 L199.5 107.5 L199.5 127.5 L199.5 127.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M194.2 114.2 L199.5 120.8 L204.8 114.2 L199.5 127.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="167" y="790.5" style="">0</text>
+<path d="M110.5 184 L26.5 208.5 L26.5 766.5 L26.5 766.5 L184.5 798.5 L184.5 798.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M170.4 801 L178 797.1 L172.5 790.6 L184.5 798.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="355" y="220.5" style="">1</text>
+<path d="M288.5 184 L372.5 208.5 L372.5 228.5 L372.5 228.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.2 215.2 L372.5 221.8 L377.8 215.2 L372.5 228.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M372.5 259.5 L372.5 279.5 L372.5 299.5 L372.5 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.2 286.2 L372.5 292.8 L377.8 286.2 L372.5 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M372.5 675.5 L372.5 695.5 L372.5 715.5 L372.5 715.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.2 702.2 L372.5 708.8 L377.8 702.2 L372.5 715.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M372.5 746.5 L372.5 766.5 L214.5 798.5 L214.5 798.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M226.5 790.6 L221 797.1 L228.6 801 L214.5 798.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<circle r="12" cx="199.5" cy="72.5" style="stroke:none; fill:#33322E;"></circle>
+<path d="M199.5 119.5 L296.5 158 L199.5 196.5 L102.5 158 Z" style="stroke:#33322E;fill:#fdf6e3;"></path>
+<text x="171" y="149" style="">P1->P2</text>
+<text x="118.8" y="164" style="">pending transfers</text>
+<text x="194.8" y="179" style="">?</text>
+<circle r="10" cx="199.5" cy="801.5" style="stroke:#33322E;fill:#fdf6e3;"></circle>
+<circle r="6" cx="199.5" cy="801.5" style="stroke:none; fill:#33322E;"></circle>
+<rect x="260.5" y="228.5" rx="15.5" ry="15.5" height="31" width="225" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="268.5" y="250" style="">unlock(P1_merkle_tree)</text>
+<rect x="66.5" y="299.5" height="376" width="612" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="296.5" y="321" style="">verify each lock</text>
+<path d="M66.5 330.5 L678.5 330.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M372.5 404.5 L372.5 424.5 L372.5 444.5 L372.5 444.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.2 431.2 L372.5 437.8 L377.8 431.2 L372.5 444.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M372.5 520.5 L372.5 540.5 L372.5 560.5 L372.5 560.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.2 547.2 L372.5 553.8 L377.8 547.2 L372.5 560.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="198.5" y="623.5" style="">0</text>
+<path d="M304.2 591.5 L216 611.5 L216 631.5 L216 631.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M210.7 618.2 L216 624.8 L221.3 618.2 L216 631.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<text x="511.5" y="623.5" style="">1</text>
+<path d="M440.8 591.5 L529 611.5 L529 631.5 L529 631.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M523.7 618.2 L529 624.8 L534.3 618.2 L529 631.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="317.5" y="343.5" rx="20" ry="20" height="61" width="111" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="344.5" y="365" style="">amount</text>
+<text x="325.5" y="380" style="">expiration</text>
+<text x="325.5" y="395" style="">secrethash</text>
+<rect x="274.5" y="444.5" height="76" width="197" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="344.5" y="466" style="">verify</text>
+<text x="282.8" y="481" style="">expiration block in</text>
+<text x="306.5" y="496" style="">SecretRegistry</text>
+<text x="311.3" y="511" style="">by secrethash</text>
+<path d="M372.5 552.5 L460.5 576 L372.5 599.5 L285.5 576 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<text x="301.8" y="582" style="">Expired secret?</text>
+<rect x="79.5" y="631.5" rx="15.5" ry="15.5" height="31" width="273" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="87.8" y="653" style="">P1 receives transfer tokens</text>
+<rect x="392.5" y="631.5" rx="15.5" ry="15.5" height="31" width="273" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="400.8" y="653" style="">P2 receives transfer tokens</text>
+<rect x="293.5" y="715.5" height="31" width="159" style="stroke:#33322E;fill:#fdf6e3;"></rect>
+<text x="301.8" y="737" style="">token transfers</text></svg>

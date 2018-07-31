@@ -1,4 +1,4 @@
-[TokenNetwork channel open & deposit |
+[TokenNetwork channel open and deposit |
   [<start>start]->[<choice>P1, P2; want to open a ;Channel]
   [<choice>P1, P2; want to open a ;Channel]->1[<state>P1 opens Channel]
   [<choice>P1, P2; want to open a ;Channel]->2[<state>P2 opens Channel]

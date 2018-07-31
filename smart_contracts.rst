@@ -373,7 +373,7 @@ Protocol Overview
 Opened Channel Lifecycle
 ------------------------
 
-.. image:: diagrams/RaidenSC_channel_open_lifecycle.png
+.. image:: diagrams/RaidenSC_channel_open_lifecycle.svg
     :alt: Opened Channel Lifecycle
     :width: 500px
 
@@ -381,7 +381,7 @@ Opened Channel Lifecycle
 Channel Settlement
 ------------------
 
-.. image:: diagrams/RaidenSC_channel_settlement.png
+.. image:: diagrams/RaidenSC_channel_settlement.svg
     :alt: Channel Settlement
     :width: 400px
 
@@ -390,13 +390,13 @@ Channel Settlement Window
 
 The non-closing participant can update the closing participant's balance proof during the settlement window, by calling `TokenNetwork.updateNonClosingBalanceProof`.
 
-.. image:: diagrams/RaidenSC_channel_update.png
+.. image:: diagrams/RaidenSC_channel_update.svg
     :alt: Channel Settlement Window Updating NonClosing BalanceProof
     :width: 650px
 
 Unlocking Pending Transfers
 ---------------------------
 
-.. image:: diagrams/RaidenSC_channel_unlock.png
+.. image:: diagrams/RaidenSC_channel_unlock.svg
     :alt: Channel Unlock Pending Transfers
     :width: 500px
