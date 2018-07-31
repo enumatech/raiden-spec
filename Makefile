@@ -49,6 +49,11 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
+.PHONY: diagrams
+diagrams:
+	./as-plantuml.sh diagrams/sources/client_mediating_transfer_good.txt | plantuml -p -tpng > diagrams/RaidenClient_mediated_transfer_good.png
+	./as-plantuml.sh diagrams/sources/client_mediating_transfer_onchain_reveal.txt | plantuml -p -tpng > diagrams/RaidenClient_mediated_transfer_secret_reveal.png
+
 .PHONY: html
 html:
 	$(SPHINXAPIDOC) -o $(BUILDDIR)/generated $(RAIDENMODULEPATH)
